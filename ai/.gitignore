@@ -1,0 +1,54 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Virtual Environment
+ai/
+venv/
+env/
+.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+data/
+logs/
+output/
+config.ini
+secrets.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Scrapy
+.scrapy
+
+# Selenium
+geckodriver.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
